@@ -21,8 +21,10 @@ qa_*/
 test-results/
 *.mp4
 *.webm
-*.wav
+*.mov
 *.mp3
+# keep small project-owned SFX assets
+!assets/**/*.wav
 
 # Tool caches
 .argo/
