@@ -1,0 +1,28 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "studio": "node studio.mjs",
+    "qa": "node studio.mjs qa",
+    "sfx": "node studio.mjs sfx",
+    "explainer": "node studio.mjs explainer",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@argo-video/cli": "^0.42.1",
+    "@playwright/test": "^1.65.0",
+    "kokoro-js": "^1.2.1"
+  },
+  "dependencies": {
+    "@browserbasehq/stagehand": "^4.4.0",
+    "@google/genai": "^3.0.0",
+    "dotenv": "^18.0.9",
+    "zod": "^4.6.7"
+  }
+}

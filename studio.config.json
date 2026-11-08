@@ -1,0 +1,23 @@
+{
+  "activeProject": "djidjoho",
+  "defaults": {
+    "voice": "Aoede",
+    "speed": 1.0,
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "language": "fr"
+  },
+  "projects": {
+    "djidjoho": {
+      "name": "Clinique Djidjoho",
+      "url": "https://djidjoho.pages.dev",
+      "credentials": {
+        "email": "demo@example.com",
+        "password": "admin1234"
+      },
+      "demo": "djidjoho",
+      "voice": "Aoede"
+    }
+  }
+}

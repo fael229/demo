@@ -1,0 +1,133 @@
+[
+  {
+    "scene": "connexion",
+    "text": "Bienvenue sur la présentation de la plateforme intégrée de gestion hospitalière de la Clinique Djidjoho.",
+    "overlay": {
+      "type": "headline-card",
+      "title": "Clinique Djidjoho",
+      "body": "Système Intégré de Gestion Hospitalière",
+      "placement": "top-left",
+      "motion": "slide-in"
+    }
+  },
+  {
+    "scene": "dashboard",
+    "text": "Le tableau de bord centralise en temps réel les indicateurs d'activité, les admissions en cours et les alertes cliniques prioritaires.",
+    "overlay": {
+      "type": "lower-third",
+      "text": "Tableau de bord & Pilotage temps réel",
+      "motion": "fade-in"
+    }
+  },
+  {
+    "scene": "patients",
+    "text": "Le module Patients réunit le dossier médical complet de chaque patient, avec identifiant unique, code QR et historique clinique.",
+    "overlay": {
+      "type": "lower-third",
+      "text": "Dossier Patient Unique (ID & QR Code)",
+      "motion": "fade-in"
+    }
+  },
+  {
+    "scene": "rendez_vous",
+    "text": "La gestion des rendez-vous permet d'organiser les consultations médicales et de gérer les disponibilités des praticiens sans encombre.",
+    "overlay": {
+      "type": "lower-third",
+      "text": "Planification & Agenda des consultations",
+      "motion": "fade-in"
+    }
+  },
+  {
+    "scene": "urgences",
+    "text": "Au triage, les équipes infirmières enregistrent immédiatement les constantes vitales et priorisent les urgences selon le degré de gravité.",
+    "overlay": {
+      "type": "lower-third",
+      "text": "Triage, Constantes vitales & Urgences",
+      "motion": "fade-in"
+    }
+  },
+  {
+    "scene": "consultations",
+    "text": "L'espace consultation assiste les médecins dans la rédaction des observations, l'analyse des symptômes et l'établissement des diagnostics.",
+    "overlay": {
+      "type": "lower-third",
+      "text": "Consultations Médicales & Diagnostics",
+      "motion": "fade-in"
+    }
+  },
+  {
+    "scene": "prescriptions",
+    "text": "Les praticiens émettent directement des prescriptions précises de traitements, soins infirmiers et examens complémentaires.",
+    "overlay": {
+      "type": "lower-third",
+      "text": "Prescriptions & Ordonnances sécurisées",
+      "motion": "fade-in"
+    }
+  },
+  {
+    "scene": "examens",
+    "text": "Le suivi des examens de laboratoire et d'imagerie assure la traçabilité des prélèvements jusqu'à l'intégration des résultats.",
+    "overlay": {
+      "type": "lower-third",
+      "text": "Analyses, Imagerie Médicale & Laboratoire",
+      "motion": "fade-in"
+    }
+  },
+  {
+    "scene": "soins",
+    "text": "Le personnel soignant trace en direct l'administration des traitements, pansements et surveillances au chevet du patient.",
+    "overlay": {
+      "type": "lower-third",
+      "text": "Soins & Actes Infirmiers au chevet",
+      "motion": "fade-in"
+    }
+  },
+  {
+    "scene": "admissions",
+    "text": "La gestion hospitalière offre une cartographie dynamique des lits disponibles et un suivi visuel des admissions.",
+    "overlay": {
+      "type": "lower-third",
+      "text": "Hospitalisation & Cartographie des lits",
+      "motion": "fade-in"
+    }
+  },
+  {
+    "scene": "stock",
+    "text": "La pharmacie garantit une traçabilité rigoureuse grâce à la méthode FEFO pour optimiser les péremptions et éviter les ruptures.",
+    "overlay": {
+      "type": "lower-third",
+      "text": "Pharmacie & Gestion des Stocks FEFO",
+      "motion": "fade-in"
+    }
+  },
+  {
+    "scene": "facturation",
+    "text": "Le pôle financier consolide automatiquement les actes dispensés, gère les prises en charge d'assurances et édite les reçus.",
+    "overlay": {
+      "type": "lower-third",
+      "text": "Facturation, Assurances & Paiements",
+      "motion": "fade-in"
+    }
+  },
+  {
+    "scene": "personnel",
+    "text": "La gestion des ressources humaines structure les plannings, les roulements de gardes de jour et de nuit ainsi que le suivi des présences.",
+    "overlay": {
+      "type": "lower-third",
+      "text": "Ressources Humaines, Shifts & Gardes",
+      "motion": "fade-in"
+    }
+  },
+  {
+    "scene": "conclusion",
+    "text": "Avec la Clinique Djidjoho, modernisez la gouvernance de votre établissement de santé grâce à une solution tout-en-un fluide et sécurisée.",
+    "overlay": {
+      "type": "headline-card",
+      "title": "Clinique Djidjoho",
+      "body": "L'excellence opérationnelle au service de la santé.",
+      "placement": "top-right",
+      "motion": "fade-in"
+    }
+  }
+]
+
