@@ -8,11 +8,23 @@ tools/*/node_modules/
 !.env.example
 
 # Heavy / vendored third-party engines (installed separately)
-tools/explainroo/
-tools/reanimate/
-tools/huashu-motion/
-tools/video-director/
-tools/earshot/
+tools/explainroo/node_modules/
+
+# Inside vendored tools: nested git history (upstream), demo media & docs assets
+# are not needed to run the engines - keep only their source.
+tools/*/.git/
+tools/*/**/*.mp4
+tools/*/**/*.webm
+tools/*/**/*.mov
+tools/*/**/*.gif
+tools/*/**/*.webp
+tools/*/**/*.jpg
+tools/*/**/*.png
+tools/*/**/*.pyc
+# but keep fonts & scripts the engines load
+tools/*/**/*.woff
+tools/*/**/*.woff2
+tools/*/**/*.wav
 
 # Generated media & artifacts
 videos/
